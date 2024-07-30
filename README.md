@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **CodeSpace Academy**
 
-- 🌱 I’m currently learning **React ,webdev, python and pygame**
+- 🌱 I’m currently learning **HTML<, CSS, JavaScript, React ,webdev**
 
 - 📫 How to reach me **bogusdrac@yahoo.com**
 
