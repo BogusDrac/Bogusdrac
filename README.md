@@ -1,5 +1,5 @@
 [![MasterHead](https://1.bpblogspot.com/-7A4WynLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLsKYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Itumeleng Matlala</h1>
+<h1 align="center">I'm Itumeleng Matlala</h1>
 <h3 align="center">A passionate frontend developer from South Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -9,11 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/@bogusdrc" target="blank"><img src="https://img.shields.io/twitter/follow/@bogusdrc?logo=twitter&style=for-the-badge" alt="@bogusdrc" /></a> </p>
 
-- 🔭 I’m currently working on **CodeSpace Academy**
+- 🔭 I've completed **CodeSpace Academy Sotfware course**
 
-- 🌱 I’m currently learning **HTML<, CSS, JavaScript, React ,webdev**
+- 🔭 Passionate in building web applications with **React, JavaScript, HTML, CSS, and Tailwindcss**
 
-- 📫 How to reach me **bogusdrac@yahoo.com**
+- 🌱 I’m currently learning **Typescript**
+
+- 📫 My Landing Page **<a href="https://mybogus-site.netlify.app" target="blank">check</a>**
+
+- 📫 How to reach me **bogusdracula07@gmail.com**
 
 - ⚡ Fun fact **Aim for Supremacy so that when you fall, you fall on excellence**
 
